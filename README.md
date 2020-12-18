@@ -12,6 +12,8 @@ Debian Debootstraped with BTRFS, ZRam, my own kernel compiled with Clang and all
 - [X] **Fetch**: [Pfetch](https://github.com/dylanaraps/pfetch.git)
 - [X] **Radio**: [Curseradio](https://github.com/chronitis/curseradio)
 - [X] **Music Visualizer**: [Cava](https://github.com/karlstav/cava)
+- [X] **Spotify**: [Spotify-TUI](https://github.com/Rigellute/spotify-tui)
+- [X] **Spotify Client**: [Spotifyd](https://github.com/Spotifyd/spotifyd)
 - [X] **Clock**: [TTY-Clock](https://github.com/xorg62/tty-clock)
 - [X] **Multiplexor**: [Tmux](https://github.com/tmux/tmux)
 - [X] **Text Editor**: VIM

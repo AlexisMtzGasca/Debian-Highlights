@@ -9,7 +9,7 @@ Debian Debootstraped with BTRFS, ZRam, my own kernel compiled with Clang and all
 - [X] **Terminal**: [Simple Terminal](https://st.suckless.org/)
 - [X] **Shell**: Bash <3
 - [X] **Terminal Screensaver**: [CMatrix](https://github.com/abishekvashok/cmatrix)
-- [X] **Fetch**: [Pfetch](https://github.com/dylanaraps/pfetch.git)
+- [X] **Fetch**: Personal Script. Available on this repository.
 - [X] **Radio**: [Curseradio](https://github.com/chronitis/curseradio)
 - [X] **Music Visualizer**: [Cava](https://github.com/karlstav/cava)
 - [X] **Spotify**: [Spotify-TUI](https://github.com/Rigellute/spotify-tui)

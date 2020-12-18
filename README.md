@@ -20,6 +20,8 @@ Debian Debootstraped with BTRFS, ZRam, my own kernel compiled with Clang and all
 - [X] **GTK & GNOME Theme**: [Matcha Dark Blue](https://github.com/vinceliuice/Matcha-gtk-theme)
 - [X] **Cursor**: [Yaru Blue](https://github.com/Jannomag/Yaru-Colors)
 - [X] **Icons**: [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)
+- [X] **File Manager**: [FFF Forked by zeljkobekcic](https://github.com/zeljkobekcic/fff)
+- [X] **ColorScheme**: By Me
 
 ## Extensions:
 

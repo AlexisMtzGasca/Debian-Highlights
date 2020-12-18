@@ -1,4 +1,4 @@
-# Debian-Highlights
+# Debian Highlights
 
 Debian Debootstraped with BTRFS, ZRam, my own kernel compiled with Clang and all the LLVM Suite. Debian is great
 
@@ -21,13 +21,13 @@ Debian Debootstraped with BTRFS, ZRam, my own kernel compiled with Clang and all
 - [X] **Cursor**: [Yaru Blue](https://github.com/Jannomag/Yaru-Colors)
 - [X] **Icons**: [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)
 
-Extensions:
+## Extensions:
 
 - Dash To Dock
 - Dynamic Panel Tranpsarency
 - GSConnect
 - GTK Title Bar
 
-[r/Unixporn](https://www.reddit.com/r/unixporn/comments/kfdyxf/gnome_debian_highlights/)
+# [r/Unixporn](https://www.reddit.com/r/unixporn/comments/kfdyxf/gnome_debian_highlights/)
 
 ![IMG](https://github.com/AlexisMtzGasca/Debian-Highlights/blob/main/Captura%20de%20pantalla%20de%202020-12-17%2021-29-07.png?raw=true)

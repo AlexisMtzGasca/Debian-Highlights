@@ -25,3 +25,5 @@ Extensions:
 - Dynamic Panel Tranpsarency
 - GSConnect
 - GTK Title Bar
+
+![IMG](https://github.com/AlexisMtzGasca/Debian-Highlights/blob/main/Captura%20de%20pantalla%20de%202020-12-17%2021-29-07.png?raw=true)

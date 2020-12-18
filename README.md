@@ -30,4 +30,4 @@ Debian Debootstraped with BTRFS, ZRam, my own kernel compiled with Clang and all
 
 # [r/Unixporn](https://www.reddit.com/r/unixporn/comments/kfdyxf/gnome_debian_highlights/)
 
-![IMG](https://github.com/AlexisMtzGasca/Debian-Highlights/blob/main/Captura%20de%20pantalla%20de%202020-12-17%2021-29-07.png?raw=true)
+![IMG](https://github.com/AlexisMtzGasca/Debian-Highlights/blob/main/Sin%20nombre.png?raw=true)
